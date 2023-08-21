@@ -16,3 +16,5 @@ REACT
     useEffect(()=>{},[attr1])
 
   ```
+
+- 不要将jsx存放在state里！！！
